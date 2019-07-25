@@ -2,3 +2,4 @@
 job offers
 
 # Recrutement
+[job]
